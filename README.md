@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/34979436dd724f8b8bc23f54fa971d1f)](https://app.codacy.com/app/dana-p/TourMapper-frontend?utm_source=github.com&utm_medium=referral&utm_content=dana-p/TourMapper-frontend&utm_campaign=Badge_Grade_Dashboard)
+
 In the project directory, you can run:
 
 ### `npm start`
